@@ -1,8 +1,9 @@
-## Welcome to my github.io page
+
+# Welcome to my github.io page
 
 This is a space to play with github pages, there's no real content here, just some experimentation.  
 
-### Markdown
+## Markdown
 
 Maybe there will be some more pages one day - 
 
